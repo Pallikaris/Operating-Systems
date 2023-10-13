@@ -1,0 +1,16 @@
+Demonstration will have 3  processes , 10  semaphores  and will run at least for 100 timeslots .
+
+Process 0 arrived at timeslot  17 with work load 47 and priority 6
+Process 2 arrived at timeslot  33 with work load 9 and priority 4
+Process 1 arrived at timeslot  39 with work load 46 and priority 7
+Process 2  exited at timeslot 41, with T.A.T. 9,  waiting time 0
+Process 0  exited at timeslot 72, with T.A.T. 56,  waiting time 9
+Process 1  exited at timeslot 118, with T.A.T. 80,  waiting time 34
+*********************************************
+ Average waiting time for process with base priority = 1 is 0 timeslots .
+ Average waiting time for process with base priority = 2 is 0 timeslots .
+ Average waiting time for process with base priority = 3 is 0 timeslots .
+ Average waiting time for process with base priority = 4 is 0 timeslots .
+ Average waiting time for process with base priority = 5 is 0 timeslots .
+ Average waiting time for process with base priority = 6 is 9 timeslots .
+ Average waiting time for process with base priority = 7 is 34 timeslots .

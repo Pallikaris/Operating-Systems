@@ -1,0 +1,46 @@
+Demonstration will have 18  processes , 2  semaphores  and will run at least for 510 timeslots .
+
+Process 0 arrived at timeslot  1 with work load 40 and priority 4
+Process 7 arrived at timeslot  26 with work load 20 and priority 2
+Process 6 arrived at timeslot  41 with work load 118 and priority 4
+Process 7  exited at timeslot 47, with T.A.T. 22,  waiting time 0
+Process 4 arrived at timeslot  56 with work load 2 and priority 4
+Process 10 arrived at timeslot  59 with work load 3 and priority 2
+Process 10  exited at timeslot 61, with T.A.T. 3,  waiting time 0
+Process 0  exited at timeslot 64, with T.A.T. 64,  waiting time 24
+Process 4  exited at timeslot 66, with T.A.T. 11,  waiting time 9
+Process 11 arrived at timeslot  72 with work load 6 and priority 1
+Process 11  exited at timeslot 77, with T.A.T. 6,  waiting time 0
+Process 16 arrived at timeslot  97 with work load 1 and priority 6
+Process 2 arrived at timeslot  116 with work load 37 and priority 3
+Process 2  exited at timeslot 152, with T.A.T. 37,  waiting time 0
+Process 5 arrived at timeslot  153 with work load 5 and priority 4
+Process 5  exited at timeslot 157, with T.A.T. 5,  waiting time 0
+Process 1 arrived at timeslot  158 with work load 18 and priority 6
+Process 13 arrived at timeslot  180 with work load 11 and priority 3
+Process 13  exited at timeslot 190, with T.A.T. 11,  waiting time 0
+Process 8 arrived at timeslot  225 with work load 11 and priority 2
+Process 9 arrived at timeslot  226 with work load 8 and priority 4
+Process 17 arrived at timeslot  233 with work load 14 and priority 1
+Process 3 arrived at timeslot  238 with work load 3 and priority 5
+Process 14 arrived at timeslot  240 with work load 38 and priority 3
+Process 12 arrived at timeslot  245 with work load 1 and priority 1
+Process 12  exited at timeslot 245, with T.A.T. 1,  waiting time 0
+Process 17  exited at timeslot 249, with T.A.T. 17,  waiting time 1
+Process 15 arrived at timeslot  251 with work load 26 and priority 7
+Process 8  exited at timeslot 251, with T.A.T. 27,  waiting time 16
+Process 14  exited at timeslot 289, with T.A.T. 50,  waiting time 12
+Process 6  exited at timeslot 308, with T.A.T. 268,  waiting time 150
+Process 9  exited at timeslot 316, with T.A.T. 91,  waiting time 83
+Process 3  exited at timeslot 319, with T.A.T. 82,  waiting time 79
+Process 1  exited at timeslot 337, with T.A.T. 180,  waiting time 162
+Process 16  exited at timeslot 338, with T.A.T. 242,  waiting time 241
+Process 15  exited at timeslot 364, with T.A.T. 114,  waiting time 88
+*********************************************
+ Average waiting time for process with base priority = 1 is 0.333333 timeslots .
+ Average waiting time for process with base priority = 2 is 5.33333 timeslots .
+ Average waiting time for process with base priority = 3 is 4 timeslots .
+ Average waiting time for process with base priority = 4 is 53.2 timeslots .
+ Average waiting time for process with base priority = 5 is 79 timeslots .
+ Average waiting time for process with base priority = 6 is 201.5 timeslots .
+ Average waiting time for process with base priority = 7 is 88 timeslots .
