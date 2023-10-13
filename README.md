@@ -1,5 +1,5 @@
 ###  Course : Operating Systems ### <br />
-###  National & Kapodistrian University of Athens### <br />
+###  National & Kapodistrian University of Athens ### <br />
 ###  Department of Informatics and Telecommunications ###
 ###  Giorgos Pallikaris 1115201400335  ### 
 
