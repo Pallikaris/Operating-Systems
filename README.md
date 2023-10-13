@@ -1,8 +1,7 @@
-### README.txt  ### <br /> 
-### Course : Operating Systems ### <br />
-### National & Kapodistrian University of Athens### <br />
-### Department of Informatics and Telecommunications ###
-### Giorgos Pallikaris 1115201400335  ### 
+###  Course : Operating Systems ### <br />
+###  National & Kapodistrian University of Athens### <br />
+###  Department of Informatics and Telecommunications ###
+###  Giorgos Pallikaris 1115201400335  ### 
 
 15/9/2o22 - 21/9/2o22 <br />
 
