@@ -19,7 +19,7 @@ Scripts will do everything for you.
 You can change the running parameters in there. 
 I have already made some examples.
 Feel free to test on your own.
-
+<br /> <br /> 
 
 _____________________________________________
 Summary of the Announcement
@@ -38,7 +38,7 @@ Show the blocking time of each process caused by processes with lower priority.
 
 Implement the priority inheritance scheme in a separate model.
 
-
+<br /> <br /> 
 
 
 
@@ -52,7 +52,7 @@ ___________________
 &
 /inversion 
 
-
+<br /> <br /> 
 
 
 
@@ -66,7 +66,10 @@ The minimal ideas  here are that there is a single CPU and each process is using
 
 I chose to implement structure and terminology corresponding to Operating Systems Theory.
 
-The 2 similar projects are directory that implements inversion and directory that implements inheritance.
+The 2 similar projects are   : 
+<br /> 1.]The directory that implements inversion 
+and
+<br /> 2.]The directory that implements inheritance.
 
 //##
 At directory inversion the main scheduling algorithm ( preemptive) , divides time to timeslots. 
@@ -94,7 +97,7 @@ number of semaphores -s
 //##
 At directory inheritance , the main algorithm updates every Semaphore Controlling  process such that it steals the highest priority from those that it blocks.
 
-
+<br /> <br /> 
 
 __________________________________________
 _____________Comparison __________________
@@ -103,7 +106,7 @@ For high number of processes and stabilized rest of the parameters the inheritin
 For big critical section duration and stabilized rest of the parameters the innheriting algorithm demonstrates far better results tha the simple one.
 At the rest instances, inheriting algorithms also are at least 30% better.
 
-
+<br /> <br /> 
 
 
 _________________________________________
@@ -139,7 +142,7 @@ I will try to make as clear as possible what is going on.
 Debug File +Log file + Error file + current output at command window are used for better supervision of the system .
 
 
-
+<br /> <br /> 
 
 _________________________________
 Αnnouncement
@@ -182,7 +185,7 @@ inheritance) στο οποίο η χαμηλής προτεραιότητας δ
 πιθανότητα εισόδου σε κρίσιμη περιοχή ανά χρονοθυρίδα (k), πλήθος σημαφόρων
 (S).
 
-
+<br /> <br /> 
 ____________________
 
 
