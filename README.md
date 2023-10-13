@@ -34,7 +34,7 @@ The time between down() and up() is exponentially distributed.
 
 Show the average waiting time per priority.
 
-Show the blocking time of each process by processes with lower priority.
+Show the blocking time of each process caused by processes with lower priority.
 
 Implement the priority inheritance scheme in a separate model.
 
