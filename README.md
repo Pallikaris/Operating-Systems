@@ -39,15 +39,21 @@ Show the blocking time of each process caused by processes with lower priority.
 Implement the priority inheritance scheme in a separate model.
 
 
+
+
+
 ______________
 Executable File's Names
 ___________________
 
-"simulator" in both subdirectories 
+"simulator" in both subdirectories :
 
 /inheritance 
 &
 /inversion 
+
+
+
 
 
 
