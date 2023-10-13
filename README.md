@@ -62,7 +62,7 @@ DESCRIPTION
 _________________________________
 
 This set of  programms simulates 2 scheduling algorithms in a system which uses semaphores as usual.
-The minimal ideas  here are that there is a single CPU and each process is using the same semaphore ( far from true).
+The minimal idea here is that there is a single CPU .
 
 I chose to implement structure and terminology corresponding to Operating Systems Theory.
 
