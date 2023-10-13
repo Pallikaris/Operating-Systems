@@ -1,7 +1,7 @@
-///// README.txt < br />
-///// SUBJECT Operating Systems< br />
-///// ATHENS KAPODISTRIAN UNIVERSITY< br />
-///// Giorgos Pallikaris 1115201400335 < br /> 15/9/2o22 - 21/9/2o22< br />
+///// README.txt <br />
+///// SUBJECT Operating Systems <br />
+///// ATHENS KAPODISTRIAN UNIVERSITY <br />
+///// Giorgos Pallikaris 1115201400335 < br /> 15/9/2o22 - 21/9/2o22 <br />
 
 
 
